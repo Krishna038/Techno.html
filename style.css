@@ -1,0 +1,108 @@
+/* Page 1 */
+
+header{
+	background-color: blue;
+	padding: 5px;
+}
+
+ul{
+	list-style: none;
+}
+li{
+	display: inline;
+	margin: 60px;
+}
+ 
+li a{
+	color: white;
+	text-decoration: none;
+	font-family: open sans;
+}
+li a:hover {
+	text-decoration: underline;
+}
+
+
+/* Page 2 */
+
+.special_heading2{
+	font-family: open sans;
+	background-color: grey;
+	color: white;
+	padding: 8px;
+}
+
+#para_aboutus{
+	font-family: josefin sans;
+	margin-left: 30px; 
+	margin-top: 40px;
+}
+
+
+   /* Page 3 */
+.special_heading3{
+	font-family: merriweather;
+	background-color: blue;
+	color: white;
+	text-align: center;
+	padding: 10px;
+}
+
+.special_subhead{
+	font-family: merriweather;
+	background-color: blue;
+	color: white;
+	text-align: center;																															
+	padding: 5px;
+}
+
+  /* Page 4 */
+
+  .h1_headings{
+	font-family: merriweather;
+	background-color: grey;
+	color: white;
+	padding: 10px;
+}
+#special_para4{
+	font-family: open sans;
+	margin-left: 30px;
+	margin-top: 20px;
+	padding: 10px;
+}
+ 
+/* Page 5 */
+  .special_heading5{
+  	font-family: marriweather;
+  	background-color: blue;
+  	color: white;
+  	padding: 10px;
+  }
+
+  #special_para5{
+  	font-family: josefin sans;
+  	margin-left: 30px;
+  	margin-top: 20px;
+}
+	.special_subhead5{
+		font-family: marriweather;
+		text-align: center;
+		background-color: blue;
+		color: white;
+		padding: 10px;
+	}
+
+
+/* Page 7 */
+ .special_heading7{
+ 	font-family: arimo;
+ 	margin-left: 30px;
+ 	margin-top: 20px;
+ }
+
+ footer{
+ 	background-color: blue;
+ 	color: white;
+ 	padding: 5px;
+ 	text-align: center;
+ }
